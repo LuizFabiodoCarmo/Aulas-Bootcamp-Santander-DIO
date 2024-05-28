@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Estudos\dio\BootcampSantanderDio\MaterialGithub\Desafio-java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+255558539.index
+3413725848.index

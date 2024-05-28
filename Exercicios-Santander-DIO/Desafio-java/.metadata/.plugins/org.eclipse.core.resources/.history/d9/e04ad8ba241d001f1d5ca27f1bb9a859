@@ -1,0 +1,30 @@
+package contabanco;
+
+import java.util.Scanner;
+
+public class IdadeseSenaoExemp{
+  
+ public static void main (String[] args){
+	Scanner entrada = new Scanner(System.in);
+	
+//declaração de variáveis
+	int idade;
+	
+//entrada de dados
+Scanner ler = new Scanner(System.in);
+System.out.println("Digite a idade: ");
+Scanner console;
+idade = Integer.parseInt(console.nextLine());
+if ((idade > 17 ) and (idade < 60) {
+   System.out.println("Adulto");
+   } else {
+	   System.out.println("Idade Inválida: ");
+	 if (idade <17) {
+     System.out.println("Criança");
+         } else {
+           System.out.println("60+");
+			  
+}	   
+}
+}	
+}  
