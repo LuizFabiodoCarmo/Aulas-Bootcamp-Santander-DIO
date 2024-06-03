@@ -1,5 +1,7 @@
 package controlefluxo;
 
+//Exemplo de Estrutura Condicional Simples.
+
 public class CaixaEletronico {
 
 	public static void main(String[] args) {
