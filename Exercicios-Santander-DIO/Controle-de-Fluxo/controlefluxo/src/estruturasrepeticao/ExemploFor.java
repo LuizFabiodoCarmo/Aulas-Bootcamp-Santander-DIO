@@ -1,5 +1,7 @@
 package estruturasrepeticao;
 
+//Exemplo de controle de Fluxo For.
+
 public class ExemploFor {
 
 	public static void main(String[] args) {
