@@ -22,7 +22,8 @@ public class Main {
     static void c() {
     	System.out.println("Entrou no método c.");
     	//Thread.dumpStack(); usa-se quando se quer fazer a depuração do código
-    	//Thread.dumpStack();
+    	//Quando lemos a Stack trace, lemos de baixo pra cima(decrescente)
+    	Thread.dumpStack();
     	System.out.println("Finalizou o método c.");
     } 
 }
