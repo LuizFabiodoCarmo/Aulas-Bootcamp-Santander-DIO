@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;estruturasrepeticao.ExemploFor2.java&apos; to &apos;ExemploForArray.java&apos;&#x0D;&#x0A;- Original project: &apos;controlefluxo&apos;&#x0D;&#x0A;- Original element: &apos;estruturasrepeticao.ExemploFor2.java&apos;&#x0D;&#x0A;- Renamed element: &apos;estruturasrepeticao.ExemploForArray.java&apos;" description="Rename compilation unit &apos;ExemploFor2.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;estruturasrepeticao{ExemploFor2.java" name="ExemploForArray.java" references="false" stamp="1717515945470" version="1.0"/>
+</session>

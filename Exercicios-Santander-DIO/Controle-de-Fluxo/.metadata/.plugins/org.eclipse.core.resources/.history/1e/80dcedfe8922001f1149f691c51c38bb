@@ -1,0 +1,16 @@
+package estruturasrepeticao;
+
+//Exemplo de controle de Fluxo For em Arrays
+public class ExemploForArray {
+
+	public static void main(String[] args) {
+		String alunos[] = { "LUIZ", "ANDERSON", "ALICE", "MARCO" }
+
+		FOR (INT X=0; X<alunos.length; x++){
+			System.out.println("O aluno no indice x=" +);
+		}
+		
+		
+	}
+
+}
