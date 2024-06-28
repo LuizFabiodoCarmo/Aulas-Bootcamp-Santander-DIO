@@ -1,4 +1,4 @@
-package ordenacao;
+package ordenacaolist;
 
 import java.util.ArrayList;
 import java.util.Collections;
