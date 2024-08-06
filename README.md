@@ -24,8 +24,6 @@ As aulas aqui neste repositório foram ministras por:
  [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/aulas_java)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
----------------------------------------------------------------
-
 
 ### Simulando Uma Conta Bancária Através Do Terminal/Console
 - Pré requisitos.
@@ -34,17 +32,12 @@ As aulas aqui neste repositório foram ministras por:
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/blob/main/Exercicios-Santander-DIO/Desafio-java/Conta-de-Banco/contabanco/src/contabanco/ContaTerminal.java)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
+
 ### Introdução e Estruturas Condicionais com Java
 - Introdução/ Visão geral/ Tipos de Estruturas de Repetição.
 - Estruturas Condicionais.
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Controle-de-Fluxo/controlefluxo/src/controlefluxo)
 #### Ministra por: Gleydson. 
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 ---------------------------------------------------------------
 
 ### Estruturas de Repetição em Java
@@ -52,17 +45,11 @@ As aulas aqui neste repositório foram ministras por:
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Controle-de-Fluxo/controlefluxo/src/estruturasrepeticao)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 
 ### Java e Tratamento de Exceções
 - Estruturas Excepcionais.
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/blob/main/Exercicios-Santander-DIO/Controle-de-Fluxo/controlefluxo/src/controlefluxo/AboutMe.java)
 #### Ministra por: Gleydson.
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 ---------------------------------------------------------------
 
 ### Debugging Java
@@ -71,9 +58,6 @@ As aulas aqui neste repositório foram ministras por:
 - Debugging na IDE Eclipse.
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/blob/main/Exercicios-Santander-DIO/Debugging-Java/debuggingjava/src/debuggingjava/CalculadoraDeMedias.java)
 #### Ministra por: Camila Cavalcante.
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 ---------------------------------------------------------------
 
 ### Criando Um Pequeno Sistema Para Validação de Processo Seletivo
@@ -85,16 +69,10 @@ As aulas aqui neste repositório foram ministras por:
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Controle-Candidatos/controlecandidatos/src/candidatura)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 
 ### Condições, Loops e Exceções na Prática com Java
 - Desafio: Criar a mesma solução em JavaScript, Java e Python.
 ##### [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-Java-C-JS-Python-Kotlin)
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 ---------------------------------------------------------------
 
 ### Fundamentos da Programação Orientada a Objetos com Java
@@ -110,9 +88,6 @@ As aulas aqui neste repositório foram ministras por:
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Orientada-a-Objeto)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 
 ### Pilares da Programação Orientada a Objetos em Java
 - Pilares do POO.
@@ -124,9 +99,6 @@ As aulas aqui neste repositório foram ministras por:
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Pilares-POO/exemplosjava/src)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 
 ### Conhecendo Collections Java
 - Introdução.
@@ -136,18 +108,12 @@ As aulas aqui neste repositório foram ministras por:
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Collections-Java-api/collections/src)
 #### Ministra por: Camila Cavalcante.
 ---------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 
 ### Ganhando Produtividade com Stream API
 - Contextualizando Stream API.
 - Stream API na Prática.
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Functional-Interface/exemplointerfacefunctional/src/exemplointerfacefunctional)
 #### Ministra por: Camila Cavalcante.
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 ---------------------------------------------------------------
 
 ### Abstraindo um Bootcamp Usando Orientação a Objetos em Java
@@ -160,9 +126,6 @@ As aulas aqui neste repositório foram ministras por:
 - Interligando as classes de domínio.
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-Poo-Dio/desafiodio/src/br/com/dio/desafio/dominio)
 #### Ministra por: Camila Cavalcante.
----------------------------------------------------------------
----------------------------------------------------------------
----------------------------------------------------------------
 ---------------------------------------------------------------
 
 ### Orientação a Objetos na Prática com Java
