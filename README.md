@@ -20,7 +20,7 @@ As aulas aqui neste repositório foram ministras por:
 - Escopo.
 - Palavras reservadas.
 - Java Doc.
-- Terminal e Argumentos.
+- Terminal e Argumentos./
  [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/aulas_java)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
