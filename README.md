@@ -10,7 +10,7 @@ As aulas aqui neste repositório foram ministras por:
   na plataforma digital da [DIO](https://www.dio.me/en)
   Estas aulas são parte do Bootcamp Santander 2024 - Backend com Java.
   
-- Todos os exercícios Java foram desenvolvemos na IDE Eclipse. 
+- Todos os exercícios Java foram desenvolvidos no IDE Eclipse. 
 
 ###  Aprendendo a Sintaxe Java
 - Anatomia das Classes.
