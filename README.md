@@ -28,26 +28,26 @@ As aulas aqui neste repositório foram ministras por:
 ### Simulando Uma Conta Bancária Através Do Terminal/Console
 - Pré requisitos.
 - Apresentação e inicialização do Desafio.
-- Desafio Proposto.
+- Desafio Proposto.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/blob/main/Exercicios-Santander-DIO/Desafio-java/Conta-de-Banco/contabanco/src/contabanco/ContaTerminal.java)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
 
 ### Introdução e Estruturas Condicionais com Java
 - Introdução/ Visão geral/ Tipos de Estruturas de Repetição.
-- Estruturas Condicionais.
+- Estruturas Condicionais.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Controle-de-Fluxo/controlefluxo/src/controlefluxo)
 #### Ministra por: Gleydson. 
 ---------------------------------------------------------------
 
 ### Estruturas de Repetição em Java
-- Estruturas de Repetição.
+- Estruturas de Repetição.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Controle-de-Fluxo/controlefluxo/src/estruturasrepeticao)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
 
 ### Java e Tratamento de Exceções
-- Estruturas Excepcionais.
+- Estruturas Excepcionais.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/blob/main/Exercicios-Santander-DIO/Controle-de-Fluxo/controlefluxo/src/controlefluxo/AboutMe.java)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
@@ -55,7 +55,7 @@ As aulas aqui neste repositório foram ministras por:
 ### Debugging Java
 - Apresentação e Visão Geral.
 - Pilha de Execução de um Programa Java.
-- Debugging na IDE Eclipse.
+- Debugging na IDE Eclipse.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/blob/main/Exercicios-Santander-DIO/Debugging-Java/debuggingjava/src/debuggingjava/CalculadoraDeMedias.java)
 #### Ministra por: Camila Cavalcante.
 ---------------------------------------------------------------
@@ -65,14 +65,14 @@ As aulas aqui neste repositório foram ministras por:
 - Selecionando Candidatos.
 - Imprimindo uma lista com os candidatos Selecionados.
 - Fazendo ligações para cada candidato Selecionando.
-- Entendendo o desafio: Contador.
+- Entendendo o desafio: Contador.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Controle-Candidatos/controlecandidatos/src/candidatura)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
 
 ### Condições, Loops e Exceções na Prática com Java
-- Desafio: Criar a mesma solução em JavaScript, Java e Python.
-##### [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-Java-C-JS-Python-Kotlin)
+- Desafio: Criar a mesma solução em JavaScript, Java e Python.  
+[Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-Java-C-JS-Python-Kotlin)
 ---------------------------------------------------------------
 
 ### Fundamentos da Programação Orientada a Objetos com Java
@@ -84,7 +84,7 @@ As aulas aqui neste repositório foram ministras por:
 - Getter e Setters.
 - Construtores.
 - Enums.
-- UML(Diagramação).
+- UML(Diagramação).  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Orientada-a-Objeto)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
@@ -95,7 +95,7 @@ As aulas aqui neste repositório foram ministras por:
 - Herança.
 - Abstração.
 - Polimorfismo.
-- Interface.
+- Interface.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Pilares-POO/exemplosjava/src)
 #### Ministra por: Gleydson.
 ---------------------------------------------------------------
@@ -104,14 +104,14 @@ As aulas aqui neste repositório foram ministras por:
 - Introdução.
 - List.
 - Set Interface.
-- Map Interface.
+- Map Interface.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Collections-Java-api/collections/src)
 #### Ministra por: Camila Cavalcante.
 ---------------------------------------------------------------
 
 ### Ganhando Produtividade com Stream API
 - Contextualizando Stream API.
-- Stream API na Prática.
+- Stream API na Prática.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Functional-Interface/exemplointerfacefunctional/src/exemplointerfacefunctional)
 #### Ministra por: Camila Cavalcante.
 ---------------------------------------------------------------
@@ -123,7 +123,7 @@ As aulas aqui neste repositório foram ministras por:
 - Herança e Polimorfismo, parte 1.
 - Herança e Polimorfismo, parte 2.
 - Concluindo a criação das classes do domínio.
-- Interligando as classes de domínio.
+- Interligando as classes de domínio.  
 [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-Poo-Dio/desafiodio/src/br/com/dio/desafio/dominio)
 #### Ministra por: Camila Cavalcante.
 ---------------------------------------------------------------
