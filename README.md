@@ -25,7 +25,7 @@ As aulas aqui neste repositório foram ministras por:
 #### Ministra por: Gleydson.  
 <h3 align="">Certificado de conclusão do Curso</h3>
 <div align="">
-    <img height="350" title="modelo curso" src="https://github.com/user-attachments/files/17382971/SintaxeJava.pdf"/>      
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/c2c8b073-5ca8-43ea-99eb-c7fd18d3c467"/>      
 </div
   
 ---------------------------------------------------------------
