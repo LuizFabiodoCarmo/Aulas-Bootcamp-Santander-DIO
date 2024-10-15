@@ -23,12 +23,12 @@ As aulas aqui neste repositório foram ministras por:
 - Terminal e Argumentos.  
  [Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/aulas_java)
 #### Ministra por: Gleydson.  
-<h3 align="">Certificado de conclusão do Curso</h3>
+<h4 align="">Certificado de conclusão do Curso:</h4>
 <div align="">
     <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/aa94320c-3053-424b-8277-211856fa9454"/>      
 </div
 
-
+<br>
   
 ---------------------------------------------------------------
 
