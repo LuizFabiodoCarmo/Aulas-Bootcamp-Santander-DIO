@@ -184,7 +184,7 @@ As aulas aqui neste repositório foram ministras por:
 #### Ministra por: Camila Cavalcante.
 <h4 align="">Certificado de conclusão do Curso:</h4>
 <div align="">
-    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/f06c5b32-1d84-47cc-b828-ca06a1f66aa3"/>      
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/29fb4ef4-4d7c-44e3-a188-54c11f4a3ef5"/>      
 </div
 
 <br>
