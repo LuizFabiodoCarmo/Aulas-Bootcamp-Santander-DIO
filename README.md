@@ -129,7 +129,7 @@ As aulas aqui neste repositório foram ministras por:
 #### Code Challenge
 - A proposta deste Code Challenge era colocar em prática os conhecimentos adquiridos em aula, desenvolvendo códigos para solucionar desafios propostos na IDE da DIO, o código teve que passar por três teste e ser aprovado em cada um deles, como testes CRUD.
 - Desafio: Criar a mesma solução em JavaScript, Java e Python.  
-[Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-Java-C-JS-Python-Kotlin)
+[Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-OperacoesBancarias/CodeChallenge/CondicoesLoopsExcecoes)
 
 
 ---------------------------------------------------------------
@@ -231,6 +231,6 @@ As aulas aqui neste repositório foram ministras por:
 #### Code Challenge
 - A proposta deste Code Challenge era colocar em prática os conhecimentos adquiridos em aula, desenvolvendo códigos para solucionar desafios propostos na IDE da DIO, o código teve que passar por três teste e ser aprovado em cada um deles, como testes CRUD.
 - Desafio: Criar a mesma solução em JavaScript, Java e Python.
-[Ver exercícios]()
+[Ver exercícios](https://github.com/LuizFabiodoCarmo/Aulas-Bootcamp-Santander-DIO/tree/main/Exercicios-Santander-DIO/Desafio-OperacoesBancarias/CodeChallenge/OrientacaoObjeto)
 
           
