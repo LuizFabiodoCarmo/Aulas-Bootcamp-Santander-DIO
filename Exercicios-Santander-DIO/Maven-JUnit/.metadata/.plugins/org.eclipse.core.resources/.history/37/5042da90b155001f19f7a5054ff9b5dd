@@ -1,0 +1,19 @@
+package projectdio;
+
+//import org.junit.Test;
+
+public class ContaTest {
+     
+	
+//	@Test
+//	void validaSaldo() {
+//		Conta conta = new Conta(numeroConta "123456", saldo 100);
+//		Assertions.assertNoNull(conta);
+//		
+//		conta.lancaCredito(valor 50);
+//		
+//		Assertions.assertEquals( expected 100, conta.getSaldo());
+//	}
+	
+	
+}

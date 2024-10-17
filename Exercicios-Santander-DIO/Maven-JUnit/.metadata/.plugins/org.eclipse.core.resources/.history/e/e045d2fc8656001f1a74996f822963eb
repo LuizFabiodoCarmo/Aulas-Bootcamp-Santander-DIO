@@ -1,0 +1,18 @@
+package projectdio;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.condition.EnabledForJreRange;
+
+
+public class CondicionaisTest {
+
+
+	
+
+	@Test
+    @EnabledForJreRange()
+    void validarAlgoSomenteNoUsuarioWillyan() {
+        Assertions.assertEquals(10, 5 + 5);
+    }
+}

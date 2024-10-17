@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+C:\Estudos\DIO\BootcampSantanderDio\Criando projeto Maven\Maven-JUnit\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3605012684.index
+3413725848.index
+1606870743.index
+3244095254.index
+2488829190.index
+618082681.index
+2123741986.index
+1499741672.index
+2729516350.index
+1600835330.index
+3745655720.index

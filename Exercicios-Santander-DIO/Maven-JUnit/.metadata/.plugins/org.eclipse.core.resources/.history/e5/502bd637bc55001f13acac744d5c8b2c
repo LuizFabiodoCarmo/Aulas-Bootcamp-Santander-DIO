@@ -1,0 +1,26 @@
+package projectdio;
+
+
+
+import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+
+import java.time.LocalDate;
+
+public class PessoaTest {
+
+	@Test
+	void validarCalculoDeidade() {
+//		Pessoa pessoa = new Pessoa(nome "julia", LocalDate.of(year: 2020, month: 1, dayOfMonth: 1));
+//		Assertions.assertEquals(expected 2, pessoa.getIdade());
+//		org.junit.Assert.assertEquals(expected 2, pessoa.getIdade());
+	}
+	
+}
+
+// public class Example {
+//    @Test
+//    public void method() {
+//       org.junit.Assert.assertTrue( new ArrayList().isEmpty() );
+//    }
+// }

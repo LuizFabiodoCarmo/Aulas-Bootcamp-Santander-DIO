@@ -1,0 +1,14 @@
+package projectdio;
+
+import java.time.LocalDate;
+
+public class PessoaTest {
+
+	void validarCalculoDeidade() {
+		Pessoa pessoa = new Pessoa(nome "julia", LocalDate.of(year: 2020, month: 1, dayOfMonth: 1));
+		Asser
+	}
+	
+	
+	
+}

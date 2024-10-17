@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="org.junit.experimental.theories.internal.Assignments"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="java.time.MonthDay"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="projectdio.Pessoa"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="projectdio.PessoaTest"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.condition.JRE"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.condition.EnabledForJreRange"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.condition.EnabledOnOs"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.condition.OS"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,33 @@
+package projectdio;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoUnit;
+import java.util.function.BooleanSupplier;
+
+public class Pessoa {
+
+	private String nome;
+	
+	private LocalDateTime nascimento;
+	
+	public Pessoa(String nome, LocalDateTime localDateTime) {
+		this.nome = nome;
+		this.nascimento = localDateTime;
+	}
+	
+	public Pessoa(String nome2, LocalDate of) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public String getNome() {return nome;}
+	
+	public LocalDateTime getNascimento() {return nascimento;}
+	
+	public int getIdade() {return (int) ChronoUnit.YEARS.between(this.nascimento, LocalDate.now());}
+
+	public BooleanSupplier ehMaiorDeIdade() {
+		return null;
+	}
+	
+}
