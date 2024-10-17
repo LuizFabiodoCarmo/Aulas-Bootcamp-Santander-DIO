@@ -69,7 +69,7 @@ As aulas aqui neste repositório foram ministras por:
 #### Ministra por: Gleydson.
 <h4 align="">Certificado de conclusão do Curso:</h4>
 <div align="">
-    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/0b38de6c-bb56-4cc6-a8b7-7744f5e9f599"/>      
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/f389dc44-84a3-4919-8f39-74c7c2bf24ba"/>      
 </div
 
 <br>
@@ -199,10 +199,11 @@ As aulas aqui neste repositório foram ministras por:
 #### Ministra por: Camila Cavalcante.
 <h4 align="">Certificado de conclusão do Curso:</h4>
 <div align="">
-    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/0c5d329e-8e8d-48c7-959a-f7f893105dbc"/>      
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/0b9d8f27-e81f-45b2-89c5-61756c0514d4"/>      
 </div
 
 <br>
+
 
 ---------------------------------------------------------------
 
@@ -218,27 +219,18 @@ As aulas aqui neste repositório foram ministras por:
 #### Ministra por: Camila Cavalcante.
 <h4 align="">Certificado de conclusão do Curso:</h4>
 <div align="">
-    <img height="350" title="modelo curso" src=""/>      
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/c81757f6-94a5-4bdc-9436-f0676eddf12b"/>      
 </div
 
 <br>
+
 
 ---------------------------------------------------------------
 
 ### Orientação a Objetos na Prática com Java
+#### Code Challenge
+- A proposta deste Code Challenge era colocar em prática os conhecimentos adquiridos em aula, desenvolvendo códigos para solucionar desafios propostos na IDE da DIO, o código teve que passar por três teste e ser aprovado em cada um deles, como testes CRUD.
 - Desafio: Criar a mesma solução em JavaScript, Java e Python.
 [Ver exercícios]()
-<h4 align="">Certificado de conclusão do Curso:</h4>
-<div align="">
-    <img height="350" title="modelo curso" src=""/>      
-</div
 
-<br>
-
----------------------------------------------------------------
-
-
-
-
-       
-            
+          
